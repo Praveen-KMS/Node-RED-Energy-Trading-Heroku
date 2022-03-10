@@ -2,7 +2,7 @@
     "name": "nodered-heroku",
     "version": "1.0.0",
     "author": {
-        "name": "Alerox"
+        "name": "EMB-1"
     },
     "description": "Node-RED on cloud, deployed in Heroku",
     "engines": {
